@@ -1,0 +1,30 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\Deeksha\Documents\iCSUN\WebSite\">
+    <file relUrl="iCSUNWebService.Publish.xml" publishTime="12/08/2011 23:00:08" />
+    <file relUrl="GetClassInfo.aspx" publishTime="11/30/2011 23:00:43" />
+    <file relUrl="GetFacOfficeHours.aspx.cs" publishTime="12/08/2011 22:59:10" />
+    <file relUrl="bin/iCSUNWebService.pdb" publishTime="12/08/2011 22:59:27" />
+    <file relUrl="bin/iCSUNBusinessLogic.dll" publishTime="12/08/2011 22:59:27" />
+    <file relUrl="bin/iCSUNBusinessLogic.pdb" publishTime="12/08/2011 22:59:27" />
+    <file relUrl="Web.config" publishTime="12/08/2011 23:01:19" />
+    <file relUrl="GetClassInfo.aspx.cs" publishTime="12/08/2011 22:59:27" />
+    <file relUrl="GetFacClassSchedule.aspx.designer.cs" publishTime="12/07/2011 17:29:44" />
+    <file relUrl="iCSUNWebService.csproj.user" publishTime="12/08/2011 00:01:40" />
+    <file relUrl="bin/iCSUNWebService.dll" publishTime="12/08/2011 22:59:27" />
+    <file relUrl="iCSUNWebService.csproj" publishTime="12/08/2011 00:01:40" />
+    <file relUrl="GetClassDetails.aspx.cs" publishTime="12/08/2011 22:59:27" />
+    <file relUrl="GetFacOfficeHours.aspx" publishTime="12/07/2011 17:30:11" />
+    <file relUrl="GetClassDetails.aspx.designer.cs" publishTime="12/07/2011 17:25:37" />
+    <file relUrl="GetFacClassSchedule.aspx.cs" publishTime="12/08/2011 22:59:26" />
+    <file relUrl="GetClassInfo.aspx.designer.cs" publishTime="11/30/2011 23:00:43" />
+    <file relUrl="GetClassDetails.aspx" publishTime="12/07/2011 17:25:37" />
+    <file relUrl="GetFacClassSchedule.aspx" publishTime="12/07/2011 17:29:44" />
+    <file relUrl="GetFacultyInfo.aspx.cs" publishTime="12/08/2011 22:58:58" />
+    <file relUrl="Properties/Settings.settings" publishTime="11/30/2011 22:50:01" />
+    <file relUrl="GetFacultyInfo.aspx" publishTime="12/06/2011 06:25:46" />
+    <file relUrl="Properties/Settings.Designer.cs" publishTime="11/30/2011 22:50:01" />
+    <file relUrl="GetFacOfficeHours.aspx.designer.cs" publishTime="12/07/2011 17:30:11" />
+    <file relUrl="GetFacultyInfo.aspx.designer.cs" publishTime="12/06/2011 06:25:46" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="11/12/2011 23:16:14" />
+  </publishTarget>
+</publishData>

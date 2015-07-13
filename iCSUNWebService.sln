@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iCSUNWebService", "iCSUNWebService\iCSUNWebService.csproj", "{0904133C-D7E4-4000-9126-8E9E9E2FF5D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iCSUNBusinessLogic", "iCSUNBusinessLogic\iCSUNBusinessLogic.csproj", "{1680B069-D7F3-455A-B811-A263BA38BEA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0904133C-D7E4-4000-9126-8E9E9E2FF5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0904133C-D7E4-4000-9126-8E9E9E2FF5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0904133C-D7E4-4000-9126-8E9E9E2FF5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0904133C-D7E4-4000-9126-8E9E9E2FF5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1680B069-D7F3-455A-B811-A263BA38BEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1680B069-D7F3-455A-B811-A263BA38BEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1680B069-D7F3-455A-B811-A263BA38BEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1680B069-D7F3-455A-B811-A263BA38BEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

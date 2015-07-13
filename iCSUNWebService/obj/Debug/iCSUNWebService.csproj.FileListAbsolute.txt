@@ -1,0 +1,12 @@
+C:\Users\Deeksha\Documents\Visual Studio 2008\Projects\iCSUNWebService\iCSUNWebService\bin\iCSUNWebService.dll
+C:\Users\Deeksha\Documents\Visual Studio 2008\Projects\iCSUNWebService\iCSUNWebService\bin\iCSUNWebService.pdb
+C:\Users\Deeksha\Documents\Visual Studio 2008\Projects\iCSUNWebService\iCSUNWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Deeksha\Documents\Visual Studio 2008\Projects\iCSUNWebService\iCSUNWebService\obj\Debug\iCSUNWebService.dll
+C:\Users\Deeksha\Documents\Visual Studio 2008\Projects\iCSUNWebService\iCSUNWebService\obj\Debug\iCSUNWebService.pdb
+C:\inetpub\wwwroot\iCSUNWebService\iCSUNWebService\bin\iCSUNWebService.dll
+C:\inetpub\wwwroot\iCSUNWebService\iCSUNWebService\bin\iCSUNWebService.pdb
+C:\inetpub\wwwroot\iCSUNWebService\iCSUNWebService\bin\iCSUNBusinessLogic.dll
+C:\inetpub\wwwroot\iCSUNWebService\iCSUNWebService\bin\iCSUNBusinessLogic.pdb
+C:\inetpub\wwwroot\iCSUNWebService\iCSUNWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\iCSUNWebService\iCSUNWebService\obj\Debug\iCSUNWebService.dll
+C:\inetpub\wwwroot\iCSUNWebService\iCSUNWebService\obj\Debug\iCSUNWebService.pdb
